@@ -1,0 +1,10 @@
+git clone
+ctrl + z    - reverse
+git add
+git status
+git commit -m "Refresh"
+git push
+alt + arrow down
+shift + alt + arrow down
+choco search "pycharm"
+choco install

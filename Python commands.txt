@@ -1,0 +1,36 @@
+#############################################################
+Command to change directory:
+
+import os
+os.chdir(r"C:\Repos\Code\cfg-python\CFG_session_1_VScode")
+
+print("Directory changed")
+
+
+############################################################
+if you using f() then don't use    .format.
+
+
+
+#############################################################
+To change the current working directory into the Desktop/ subfolder,
+you use the "change directory" command, cd:
+
+shell:
+$ pwd
+/Users/realpython
+$ cd Desktop
+$ pwd
+/Users/realpython/Desktop
+
+When you enter cd followed by a directory name, 
+it'll change the current workingdirectory to the specified directory
+
+
+
+########################################
+pip install pandas
+
+
+########################################
+pip show pandas

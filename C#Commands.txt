@@ -1,0 +1,38 @@
+Console.WriteLine("");      -   to display a message in a multiple lines; prints the output on the existing line and appends a new line after it.
+Console.Write("");          -   to display a message in just one line of code
+Console.Write(" ");         -   space between quotation signs creates space in output
+
+
+\n  -   will add a new line
+\t  -   will add a tab space
+@   -   A verbatim string literal will keep all whitespace and characters without the need to escape the backslash. To create a verbatim string, use the @ directive before the literal string.
+\u  -   escape sequence, You can also add encoded characters in literal strings using the \u escape sequence, then a four-character code representing some character in Unicode (UTF-16).
+\\  -   to display a single backslash
+\"	-   escape sequence for double quotation mark
+
+\t	-   escape sequence for tab
+\n	-   escape sequence for new line
+\\	-   escape character to display a single backslash.
+@	-   verbatim string literal,  that keeps all whitespace formatting and backslash characters in a string.
+@   -   symbol creates a verbatim string where it's unnecessary to escape the \.
+
+//	-   double forward slash is used for a comment to the user. Compiler will ignore it
+\u	-   plus a four-character code to represent Unicode characters (UTF-16) in a string.
++	-   To concatenate two strings together, you use the string concatenation operator, which is the plus symbol +.
++   -   it is also an addition operator
+{}	-   interpolation, "here is the bit where if you add $ in front of it, program will think that it needs to do some operation with it"
+$	-   template
+\" 	-   displays double quotes
+$	-   symbol denotes an interpolated string and the value in the curly braces is displayed
+=	-	assigment operator
+
+The console in many environments may not support the full range of Unicode characters. As a result, Unicode characters may appear as question marks due to encoding mismatches.
+	
+	 
+
++ is the addition operator
+- is the subtraction operator
+* is the multiplication operator
+/ is the division operator
+
+
